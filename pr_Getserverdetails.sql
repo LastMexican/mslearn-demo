@@ -1,0 +1,3 @@
+CREATE PROCEDURE pr_GetServerDetails 
+AS
+(SELECT 1)
