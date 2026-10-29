@@ -1,3 +1,3 @@
 CREATE PROCEDURE pr_GetServerDetails 
 AS
-(SELECT 1)
+(SELECT * FROM tb_SystemInfo)
